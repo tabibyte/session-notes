@@ -5,5 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "A plugin to create temporary & session notes that will be deleted when session ends",
 	"author": "tabibyte",
-	"authorUrl": "https://github.com/tabibyte"
+	"authorUrl": "https://github.com/tabibyte",
+	"isDesktopOnly": false
 }

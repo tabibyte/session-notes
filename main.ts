@@ -1,6 +1,6 @@
 import { Plugin, TFile, Notice } from 'obsidian';
 
-export default class MyPlugin extends Plugin {
+export default class SNote extends Plugin {
   private sessionNotes: TFile[] = [];
   private tempNote?: TFile;
 

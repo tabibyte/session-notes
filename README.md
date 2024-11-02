@@ -17,18 +17,6 @@ Key features:
 3. Restart Obsidian.
 4. Open Settings > Community Plugins, and enable **Session Notes**.
 
-## Usage
-
-### Temporary Notes
-
-1. Press `Ctrl + Shift + ;` to create a temporary note.
-2. The note will be deleted once you switch away from it.
-
-### Session Notes
-
-1. Press `Ctrl + Shift + '` to create a session note.
-2. Session notes persist while the app is open and are deleted upon closing Obsidian.
-
 ### Customization
 
 You can customize the hotkeys for creating session or temporary notes by navigating to **Settings > Hotkeys** in Obsidian and modifying the corresponding commands.

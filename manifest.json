@@ -1,9 +1,9 @@
 {
 	"id": "session-notes",
 	"name": "Session Notes",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"minAppVersion": "0.15.0",
-	"description": "A plugin to create temporary & session notes that will be deleted when session ends",
+	"description": "Create temporary session or one-off notes",
 	"author": "tabibyte",
 	"authorUrl": "https://github.com/tabibyte",
 	"isDesktopOnly": false

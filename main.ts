@@ -8,14 +8,12 @@ export default class SNote extends Plugin {
     this.addCommand({
       id: 'open-temp-note',
       name: 'Open a temporary note (delete on change)',
-      hotkeys: [{ modifiers: ['Ctrl', 'Shift'], key: ';' }],
       callback: () => this.openTempNote(),
     });
 
     this.addCommand({
       id: 'open-session-note',
       name: 'Open a session note (delete on app close)',
-      hotkeys: [{ modifiers: ['Ctrl', 'Shift'], key: '\'' }],
       callback: () => this.openSessionNote(),
     });
 

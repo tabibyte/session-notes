@@ -1,4 +1,4 @@
-import { Plugin, TFile, Notice } from 'obsidian';
+import { Plugin, TFile} from 'obsidian';
 
 export default class SNote extends Plugin {
   private sessionNotes: TFile[] = [];
